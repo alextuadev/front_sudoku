@@ -1,7 +1,5 @@
-import axios from 'axios'
-
 // API base url
-const URL = "http://localhost:8001/";
+const URL = "http://localhost:8000/";
 
 
 class API {
